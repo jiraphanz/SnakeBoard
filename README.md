@@ -1,4 +1,4 @@
-## SnakeBoard 🕹️🐍
+## SnakeBoard | Arduino Project 🕹️🐍
 
 ### โปรเจ็ควิชา Computer-Programming IT KMITL 2/2564 
 
