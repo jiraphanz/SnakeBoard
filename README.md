@@ -15,11 +15,13 @@
 > https://jiraphanz.github.io/SnakeBoard/
 
 ### ลิงค์วิดีโอพรีเซนต์
-> https://www.youtube.com/watch?v=dQw4w9WgXcQ
+> https://youtu.be/7NjqeTxUMRE
 
 ### ชิ้นงาน
 > https://wokwi.com/projects/330806605153043027
 
+### โปสเตอร์
+![SnakeBoard_Poster](https://user-images.githubusercontent.com/88519295/168317604-33b6408f-f4ee-4cf2-9567-f1205e7c6de1.png)
 
 ## สมาชิกในกลุ่ม 🧑
 1. นายจิราพันธ์ ขวัญรักษ์ รหัสนักศึกษา 64070015
