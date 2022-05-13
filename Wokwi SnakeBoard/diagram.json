@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "author": "Péntek Dávid",
+  "author": "64070015 จิราพันธ์ ขวัญรักษ์ 64070023 โชตชฎา อุปโยคิน 64070024 ฐนกร อมตเวทย์ 64070028 ณัชพล ตั้งสาธิตพร",
   "editor": "",
   "parts": [
     { "type": "wokwi-arduino-uno", "id": "uno", "top": 10, "left": 20, "attrs": {} },
