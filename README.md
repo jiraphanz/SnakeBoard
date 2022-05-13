@@ -16,6 +16,7 @@
 
 ### ลิงค์วิดีโอพรีเซนต์
 > [![Com-Pro - SnakeBoard](https://cdn.discordapp.com/attachments/958718822448263208/974698024758571058/dce16095654a1c90.png)](https://youtu.be/7NjqeTxUMRE)
+> คลิกที่รูป
 
 ### ชิ้นงาน
 > https://wokwi.com/projects/330806605153043027
