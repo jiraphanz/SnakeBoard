@@ -15,7 +15,7 @@
 > https://jiraphanz.github.io/SnakeBoard/
 
 ### ลิงค์วิดีโอพรีเซนต์
-> https://youtu.be/7NjqeTxUMRE
+> [![Com-Pro - SnakeBoard](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/7NjqeTxUMRE)
 
 ### ชิ้นงาน
 > https://wokwi.com/projects/330806605153043027
